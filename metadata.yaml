@@ -1,0 +1,28 @@
+_repo: The-Truth-About-Tristrem-Varick--A-Novel_33099
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saltus, Edgar
+    alias: Saltus, Edgar Evertson
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '1417'
+    url: http://www.gutenberg.org/2009/agents/1417
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
+description: ''
+gutenberg_issued: '2010-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'The Truth About Tristrem Varick: A Novel'
+url: http://www.gutenberg.org/ebooks/33099
