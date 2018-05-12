@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1417
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Saltus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33099#The-Truth-About-Tristrem-Varick--A-Novel
 gutenberg_issued: '2010-07-07'
 gutenberg_type: Text
 identifiers:
